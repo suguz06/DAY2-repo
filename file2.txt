@@ -1,0 +1,31 @@
+
+Git != GitHub
+
+Git --keep track of changes in the project
+
+Repository
+
+Basically a folder that git keep track of
+It can be anything text file picture or source code
+
+
+Where is all tracking happening inside the repo
+
+.git folder is where all tracking stored
+
+
+GitHub desktop 
+
+Git client toll to make it easy to work with locally  visually
+and easily share project to GitHub.com
+
+LOCATION
+
+	Working directory|copy|tree|
+	Staging area  special area to prepare the changes before commit
+	Local Repository  .git folder that track all information
+	REmote Repo   in GitHub.com
+
+
+COMMIT
+a snapshot of changes
